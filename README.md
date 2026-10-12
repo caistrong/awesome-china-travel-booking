@@ -87,6 +87,7 @@ The full sortable table (30+ attractions) is here: **[China attraction ticket re
 Summer Palace, Temple of Heaven, Jingshan Park and Beihai Park usually don't need advance booking: buy at the gate with your passport, which also makes them good backups when the Forbidden City is full.
 
 - [Beijing parks without reservation](https://simplechinatrip.com/guides/beijing-parks-foreigners-no-reservation/) · [Summer Palace](https://simplechinatrip.com/guides/summer-palace-tickets-foreigners/) · [Temple of Heaven](https://simplechinatrip.com/guides/temple-of-heaven-tickets-foreigners/) · [Lama Temple](https://simplechinatrip.com/guides/lama-temple-tickets-foreigners/)
+- [Beijing layover plan](https://simplechinatrip.com/guides/beijing-layover-forbidden-city-great-wall/): whether you can leave the airport (24-hour vs 240-hour transit), one big sight (Forbidden City or the Great Wall), and what to book before you fly.
 
 ## Shanghai
 
